@@ -1,0 +1,10 @@
+streamlit==1.57.0
+sounddevice==0.5.5
+soundfile==0.13.1
+plotly==6.7.0
+numpy==2.4.4
+openai-whisper==20250625
+spacy==3.8.13
+language-tool-python==3.3.1
+transformers==5.8.0
+torch==2.11.0
